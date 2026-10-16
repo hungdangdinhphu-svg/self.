@@ -8,6 +8,6 @@ Chương 2: Self-awareness, Logic, First Principles, Trừu tượng và Triết
 
 Chương 3: Learning to learn, Tổng quát hóa và Mở rộng, Lý thuyết về thông tin và Toán học
 
-Chương 4: 
+Chương 4: Vật Lý và Vũ trụ...
 
 
