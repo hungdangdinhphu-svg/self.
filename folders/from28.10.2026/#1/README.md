@@ -45,3 +45,11 @@ $$(A \subseteq B) \land (B \subseteq C) \implies A \subseteq C$$
 
 Tính bắc cầu tự động xuất hiện như một hệ quả hình học của quan hệ thứ bậc (hierarchical inclusion). Nếu một không gian hoàn toàn không có tính bắc cầu, điều đó đồng nghĩa với việc không tồn tại bất kỳ quan hệ bao hàm nào — tức là mọi thực thể đều hoàn toàn cô lập, rời rạc, khi đó cấu trúc tập hợp sụp đổ về dạng một tập điểm rời rạc vô định hình, mâu thuẫn trực tiếp với Tiên đề 0 (vì sự tồn tại của các điểm phân biệt đòi hỏi một cấu trúc phân ranh giới).
 
+A1 (Non-Voidness): $KGTB \neq \emptyset$.
+
+A2 (Distinction): $\exists x \in KGTB \implies \exists y \notin x$ (Sự tồn tại luôn tạo ra lằn ranh phân biệt).
+
+A3 (Composition): Mọi quan hệ giữa các thực thể $x, y$ trong KGTB đều tuân theo quy tắc cấu trúc tập hợp (tính kết hợp và tính bao hàm), đảm bảo tính nhất quán nội tại (Internal Consistency) thay vì phụ thuộc vào tính đúng đắn của thế giới khách quan bên ngoài.
+
+A4 (Invariance): Bất kỳ hệ thống mô tả nào được xây dựng bên trong KGTB phải bảo toàn tính bất biến đối với các phép biến đổi giả lập cực đoan của không gian đó. Những gì thay đổi là biểu hiện ($E$), cái không đổi là cấu trúc quan hệ logic cốt lõi ($C$).
+
