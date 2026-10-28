@@ -10,7 +10,7 @@ $$\exists X \quad (\text{trong đó } X \text{ là KGTB})$$
 
 Ý nghĩa: Tồn tại "một cái gì đó" với bất kỳ hình thái nào bên trong KGTB. Sự vắng mặt toàn diện của mọi thứ ($\emptyset$) là bất khả, vì khi đó không thể xác định được mệnh đề.
 
-"Đây có thể là 'dạng' mà tôi cho là 'lừa dối của nhận thức' về vũ trụ 'kinh khủng nhất' có thể xảy ra."-Đặng Đình Phú Hưng.
+"Đây có thể là 'dạng' mà tôi cho là 'chắc chắn chính xác tối thiểu nhất' về vũ trụ của chúng ta. Thậm chí nó còn có thể không phải vũ trụ, tôi nghĩ nên gọi nó là KGTB."-Đặng Đình Phú Hưng.
 
 
 
