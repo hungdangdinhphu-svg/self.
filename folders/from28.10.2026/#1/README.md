@@ -13,6 +13,14 @@ $$\exists X \quad (\text{trong đó } X \text{ là KGTB})$$
 "Đây có thể là 'dạng' mà tôi cho là 'chắc chắn chính xác tối thiểu nhất' về vũ trụ của chúng ta. Thậm chí nó còn có thể không phải vũ trụ, tôi nghĩ nên gọi nó là KGTB."-Đặng Đình Phú Hưng.
 
 
+Từ Tiên đề 0, ta tiến hành xây dựng cấu trúc mà không viện dẫn đến bất kỳ tiên đề logic ngoài nào khác.
+
+Sự Hiện Diện và Ranh Giới:
+
+Khi $X$ tồn tại, sự tồn tại của $X$ ngay lập tức thiết lập một sự phân biệt (distinction) ngầm định giữa $X$ và "phần không phải $X$" (ký hiệu là $\neg X$).
+
+Một thực thể không thể đồng thời là $X$ và $\neg X$ dưới cùng một phương diện định nghĩa, nó liên quan đến Law of Non-Contradiction.
+
 
 
 
