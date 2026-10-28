@@ -21,7 +21,27 @@ Khi $X$ tồn tại, sự tồn tại của $X$ ngay lập tức thiết lập m
 
 Một thực thể không thể đồng thời là $X$ và $\neg X$ dưới cùng một phương diện định nghĩa, nó liên quan đến Law of Non-Contradiction.
 
+Hàm Chuyển Đổi Trạng Thái ($T$):
 
+Cho phép các trạng thái biến đổi bên trong KGTB. Nếu mọi thứ có thể thay đổi, ta định nghĩa một toán tử chuyển đổi trạng thái:
 
+$$T: S_1 \to S_2$$
 
+Trong đó $S_1, S_2 \in KGTB$.
+
+"Nếu KGTB không có tính bắc cầu thông thường, liệu hệ thống có sụp đổ?"-Đặng Đình Phú Hưng
+
+Ta chứng minh rằng tính bắc cầu không phải là một đặc tính vật lý cần được bảo chứng từ bên ngoài, mà là tính chất hình học tất yếu của quan hệ bao hàm tập hợp.
+
+Giả sử ta định nghĩa quan hệ $\to$ (đọc là "bao hàm" hoặc "dẫn đến trực tiếp"):
+
+Nếu $A$ dẫn đến $B$ ($A \to B$) và $B$ dẫn đến $C$ ($B \to C$).
+
+Xét cấu trúc tập hợp tương ứng: $A \subseteq B$ và $B \subseteq C$.
+
+Theo lý thuyết tập hợp thuần túy (không phụ thuộc vào vật lý hay nhận thức chủ quan):
+
+$$(A \subseteq B) \land (B \subseteq C) \implies A \subseteq C$$
+
+Tính bắc cầu tự động xuất hiện như một hệ quả hình học của quan hệ thứ bậc (hierarchical inclusion). Nếu một không gian hoàn toàn không có tính bắc cầu, điều đó đồng nghĩa với việc không tồn tại bất kỳ quan hệ bao hàm nào — tức là mọi thực thể đều hoàn toàn cô lập, rời rạc, khi đó cấu trúc tập hợp sụp đổ về dạng một tập điểm rời rạc vô định hình, mâu thuẫn trực tiếp với Tiên đề 0 (vì sự tồn tại của các điểm phân biệt đòi hỏi một cấu trúc phân ranh giới).
 
